@@ -357,4 +357,8 @@ For details on how to contribute, please consult the [Contribution Guide](https:
 
 <h3 id="star_hist">5.4 Star History</h3>
 <!-- star-history:start -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/star-history/star-history-dark.svg">
+  <img alt="Star history" src="assets/star-history/star-history-light.svg">
+</picture>
 <!-- star-history:end -->
